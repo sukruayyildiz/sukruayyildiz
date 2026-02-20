@@ -61,6 +61,7 @@ My control systems research lives elsewhere - this is my "fun software" space an
 </a>
 <a href="https://www.espressif.com/en/products/socs/esp32"> 
 <img src="https://images.seeklogo.com/logo-png/40/2/espressif-systems-logo-png_seeklogo-407805.png" alt="esp32" width="40" height="40"/>
+</a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"> 
 <img src="https://i.ibb.co/JF58qTn3/images-removebg-preview.png" alt="stm32" width="40" height="40"/> 
 </a>
