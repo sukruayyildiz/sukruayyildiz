@@ -14,13 +14,13 @@ Building serious systems and occasionally unserious software.
 </a>
 </div>
 
-## What happens here?
+### What happens here?
 
 My control systems research lives elsewhere - this is my "fun software" space and here you'll find experimental embedded systems projects, robotics side quests, tools no one asked for and random things that escalated too far.
 
 <h3 align="left">Contact: <a href='mailto:sukru.ayyildiz@istinye.edu.tr'>sukru.ayyildiz@istinye.edu.tr</a></h3>
 
-## Stack
+### Stack
 
 <p align="left">
 <a href="https://www.c-language.org" target="_blank" rel="noreferrer"> 
