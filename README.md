@@ -16,7 +16,7 @@ Building serious systems and occasionally unserious software.
 
 ### What happens here?
 
-My control systems research lives elsewhere - this is my "fun software" space and here you'll find experimental embedded systems projects, robotics side quests, tools no one asked for and random things that escalated too far.
+My control systems research lives mostly elsewhere — this is my "fun software" space and here you'll find experimental embedded systems projects, robotics side quests, tools no one asked for and random things that escalated too far.
 
 <h3 align="left">Contact: <a href='mailto:sukru.ayyildiz@istinye.edu.tr'>sukru.ayyildiz@istinye.edu.tr</a></h3>
 
