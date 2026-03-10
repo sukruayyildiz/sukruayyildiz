@@ -1,4 +1,4 @@
-<h1 align="center">Şükrü Ayyıldız</h1>
+<h1 align="center">Hi there, I'm Şükrü 👋🏻</h1>
 
 <p align="center">
 Building serious systems and occasionally unserious software.
