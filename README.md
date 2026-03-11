@@ -20,8 +20,6 @@ My control systems research lives mostly elsewhere — this is my "fun software"
 
 <h3 align="left">Contact: <a href='mailto:sukru.ayyildiz@istinye.edu.tr'>sukru.ayyildiz@istinye.edu.tr</a></h3>
 
-<h3 align="left">Stack</h3>
-
 **Languages**  
 <p align="left">
 <a href="https://www.c-language.org" target="_blank" rel="noreferrer"> 
