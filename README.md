@@ -48,8 +48,8 @@ My control systems research lives mostly elsewhere — this is my "fun software"
 <a href="https://scipy.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/scipy/scipy/fd9672a042597b5789b59390263f05b3794b254c/doc/source/_static/logo.svg" alt="scipy" width="40" height="40"/> 
 </a>
-<a href="https://i.ibb.co/nNXKLmwZ/2479573.png" target="_blank" rel="noreferrer"> 
-<img src="https://web.casadi.org/" alt="casadi" width="40" height="40"/> 
+<a href="https://web.casadi.org/" target="_blank" rel="noreferrer"> 
+<img src="https://avatars.githubusercontent.com/u/2479573?s=280&v=4" alt="casadi" width="40" height="40"/> 
 </a>
 </p>
 
