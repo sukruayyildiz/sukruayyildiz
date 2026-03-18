@@ -68,6 +68,9 @@ My control systems research lives mostly elsewhere — this is my "fun software"
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40"/> 
 </a>
+<a href="https://gazebosim.org" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/670a611ad1c3e057ee385168d65c8ab27a7e1be5/icons/gazebo/gazebo-original.svg" alt="gazebo" width="40" height="40"/> 
+</a>
 </p>
 
 **Systems & Tools**
