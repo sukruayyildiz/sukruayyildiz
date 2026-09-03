@@ -6,11 +6,11 @@ Building serious systems and occasionally unserious software.
 
 <div align="left">
 <a href="https://github.com/sukruayyildiz">
-	<img alt="GitHub stats" align="right" width='500px' src="https://github-readme-stats-sigma-five.vercel.app/api?username=sukruayyildiz&show_icons=true&count_private=true&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" />
+	<img alt="GitHub stats" align="right" width='500px' src="https://github-readme-stats.vercel.app/api?username=sukruayyildiz&show_icons=true&count_private=true&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=400" />
 </a>
 
 <a href="https://github.com/sukruayyildiz/?tab=repositories">
-	<img alt="Top Langs" align="right" width='500px' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sukruayyildiz&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
+	<img alt="Top Langs" align="right" width='500px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukruayyildiz&layout=compact&langs_count=10&text_color=adbac7&title_color=539bf5&icon_color=986ee2&bg_color=22272e&hide_border=true&border_radius=6px&theme=tokyonight&card_width=340" />
 </a>
 </div>
 
