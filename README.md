@@ -99,6 +99,9 @@ Contact:
 ### Systems & Tools
 
 <p align="left">
+<a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer">
+<img src="https://cdn.simpleicons.org/apple/555555/DDDDDD" alt="macOS" width="36" height="36" align="top"/>
+</a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </a>
